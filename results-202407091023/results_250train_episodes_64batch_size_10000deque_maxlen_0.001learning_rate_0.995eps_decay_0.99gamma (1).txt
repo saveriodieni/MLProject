@@ -1,0 +1,11 @@
+Train episodes: 0,Average Reward: -0.139
+Train episodes: 25,Average Reward: -0.172
+Train episodes: 50,Average Reward: -0.149
+Train episodes: 75,Average Reward: -0.176
+Train episodes: 100,Average Reward: -0.172
+Train episodes: 125,Average Reward: -0.229
+Train episodes: 150,Average Reward: -0.128
+Train episodes: 175,Average Reward: -0.177
+Train episodes: 200,Average Reward: -0.185
+Train episodes: 225,Average Reward: -0.167
+Train episodes: 250,Average Reward: -0.202
